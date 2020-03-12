@@ -9,6 +9,6 @@
 <br>
 <a>https://github.com/AlexeyAB/darknet</a>
 <br>
-<b>Output image</b>
+<b>Output</b>
 <br>
 ![Output image](assest/output.gif)
